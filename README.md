@@ -8,4 +8,4 @@ SA-Eval has diverse speech instruction with various speaking styles, encompassin
 
 <img src="figures/task.png" width="400" />
 
-More updates coming soon.
+We are preparing more updates to be released soon.
