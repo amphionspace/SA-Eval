@@ -6,6 +6,6 @@ However, most existing models primarily focus on analyzing input signals using t
 To evaluate the models under this scenario, we propose SA-Eval, which includes three tasks: audio event classification, audio captioning, and audio question answering.
 SA-Eval has diverse speech instruction with various speaking styles, encompassing two difficulty levels, *easy* and *hard*, to capture the range of real-world acoustic conditions.
 
-<img src="figures/task.png" width="400" />
-
 We are preparing more updates to be released soon.
+
+<img src="figures/task.png" width="400" />
