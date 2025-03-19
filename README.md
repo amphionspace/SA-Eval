@@ -8,4 +8,4 @@ SA-Eval has diverse speech instruction with various speaking styles, encompassin
 
 <img src="figures/task.png" width="400" />
 
-The SA-Eval dataset will be released upon the publication of the paper.
+More updates coming soon.
