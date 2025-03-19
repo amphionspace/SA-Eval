@@ -1,4 +1,4 @@
-# Solla : Towards a Speech-Oriented LLM That Hears Acoustic Context
+# SA-Eval
 
 LLMs have recently shown remarkable ability to process not only text but also multimodal inputs such as speech and audio.
 However, most existing models primarily focus on analyzing input signals using text instructions, overlooking scenarios in which speech instructions and audio are mixed and serve as inputs to the model.
