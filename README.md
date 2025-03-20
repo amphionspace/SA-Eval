@@ -7,5 +7,3 @@ To evaluate the models under this scenario, we propose SA-Eval, which includes t
 SA-Eval has diverse speech instruction with various speaking styles, encompassing two difficulty levels, *easy* and *hard*, to capture the range of real-world acoustic conditions.
 
 We are preparing more updates to be released soon.
-
-<img src="figures/task.png" width="400" />
